@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "name": "The Official OSIB Entities",
+    "name": "Official OMOIKA Entities",
     "author": "OMOIKA",
-    "description": "The official default entity and transform definitions for the OSINTBuddy app.",
-    "repo": "osintbuddy/plugins"
+    "description": "The official default entity and transform definitions for OMOIKA.",
+    "repo": "omoika-institute/plugins"
   },
   {
     "id": 2,
-    "name": "Google CSEs Pack",
+    "name": "Google CSEs",
     "author": "jerlendds",
-    "description": "A set of OSIB plugins for pulling data from Google CSEs (Custom Programmable Search Engines).",
+    "description": "OMOIKA plugins for pulling data from Google CSEs (Custom Programmable Search Engines).",
     "repo": "jerlendds/google-cses"
   }
 ]

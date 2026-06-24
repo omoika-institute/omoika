@@ -4,8 +4,6 @@
 [![Total Downloads](https://static.pepy.tech/badge/OMOIKA)](https://pepy.tech/project/OMOIKA)
 [![Downloads](https://static.pepy.tech/badge/OMOIKA/week)](https://pepy.tech/project/OMOIKA)
 
-## Introducing OMOIKA
-
 <p>
   <a href="https://github.com/OMOIKA/OMOIKA">
     <img src="./watermark.svg" height="360px" alt="Logo">
