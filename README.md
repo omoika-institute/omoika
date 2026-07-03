@@ -5,6 +5,15 @@
 [![Downloads](https://static.pepy.tech/badge/OMOIKA/week)](https://pepy.tech/project/OMOIKA)
 ![hits](https://komarev.com/ghpvc/?username=omoika-institute-omoika007-framework&label=hits)
 
+
+<details>   <summary>📼 <i>Click here to watch the <b>OMOIKA</b> demo.</i> </summary>
+
+[demo.mp4](https://github.com/user-attachments/assets/c3b9eee4-927b-46b1-bd6b-6aee5b624825)
+
+</details>
+
+---
+
 <p>
   <a href="https://github.com/OMOIKA/OMOIKA">
     <img src="./watermark.svg" height="360px" alt="Logo">
@@ -13,23 +22,17 @@
 > _I have no data yet. It is a capital mistake to theorize before one has data. Insensibly
 > one begins to twist facts to suit theories, instead of theories to suit facts._
 
-<details>   <summary>📼 <i>Click to watch the <b>OMOIKA</b> demo...</i></summary>
 
-[demo.mp4](https://github.com/user-attachments/assets/30659b76-a558-4b92-a89a-b51c11d7137e)
+<details>   <summary> <i>Click here to view <b>OMOIKA</b> screenshots.</i> </summary>
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d08b4ba-bb68-4576-b9e8-bf42f36fd723" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e45d096-8654-4038-badf-be33c1aa5d44" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b3fd5d2b-d8eb-4777-b19e-0133073c9733" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/092b5a8c-ec82-47c4-94ae-f291719e4f29" />
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/21ccebda-35ff-431d-a903-26ec6508dff3" />
 
 </details>
 
----
-
-<details>   <summary><i>Click to view screenshots of <b>OMOIKA</b>...</i></summary>
-
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c9ddb00-18e2-4457-b34c-55e7420bf04a" />
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/916cbdff-6b27-487e-b497-dfea921aef7a" />
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/194839be-30a7-4a88-b12d-6ba8ee9a1dac" />
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/41ceb8e1-eafa-4471-9b0d-1bd4124f1993" />
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9f0e3d4-327e-4ad1-8ed9-129dfbfe998f" />
-
-  </details>
 
 ---
 
@@ -110,7 +113,6 @@ All submissions must conform with our [developer policies](./DEVELOPER_POLICIES.
 [issues-shield]: https://img.shields.io/github/issues/omoika-institute/OMOIKA.svg?style=for-the-badge
 [issues-url]: https://github.com/omoika-institute/omoika/issues
 
-
 ## Initial release **v0.42.0** is featuring:
 
 - Bundled Python plugin system
@@ -119,4 +121,3 @@ All submissions must conform with our [developer policies](./DEVELOPER_POLICIES.
 - Community Marketplace
 - Plugin configuration settings
 - Graph workspace history timeline
-
